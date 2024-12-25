@@ -1,0 +1,11 @@
+.hero {
+    color: white;
+    padding: 4rem 0;
+  }
+  .title {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  .highlight {
+    color: #f9d71c;
+  }

@@ -1,0 +1,47 @@
+.footer {
+    background-color: #1c1c1c;
+    color: white;
+  }
+  
+  h5 {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  p {
+    font-size: 0.875rem;
+    line-height: 1.5;
+  }
+/*   
+  .icon {
+    font-size: 1.5rem;
+    margin-right: 1rem;
+    color: #f9d71c;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+  }
+   */
+  /* .icon:hover {
+    transform: scale(1.2);
+  }
+   */
+  .linkList {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .linkList li {
+    margin-bottom: 0.5rem;
+  }
+  
+  .linkList a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+  
+  .linkList a:hover {
+    color: #f9d71c;
+  }
+  
